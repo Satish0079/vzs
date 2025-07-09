@@ -1,4 +1,4 @@
-Of course. Here are detailed yet simple answers to each of the questions.
+Module 3  5 MArkers
 
 ### 1. Examine Hidden Markov Model components in natural language processing.
 
